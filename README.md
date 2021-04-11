@@ -12,5 +12,5 @@
   Inside each folder, there is a small frontend project, each project own some effect, e.g.:GlassMorphism shows how to implement a glass effect like: 
 </p>
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/gabrieldasneves/HandsOnLoginPages/blob/main/assets/ex.jpeg)
 
